@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="hint_text">Input book name here</string>
+    <string name="search">Search</string>
+    <string name="defaultBookName">Default:BookName</string>
+    <string name="defaultAuthor">Default:Author</string>
+    <string name="no_internet">No internet connection.</string>
+    <string name="no_book">No book found.</string>
+    <string name="no_input">No book input.</string>
+</resources>
